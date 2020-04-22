@@ -31,3 +31,13 @@
   3. Kafka Streams on Kubernetes (3 Part Series)
   4. How to add persistent storage to your Kubernetes apps on Azure
   5. Kafka Connect on Kubernetes, the easy way!
+
+### Category: DevOps
+Product Documentation on Docs
+MS Learn (Learning Path/Module) 
+Build applications with Azure DevOps
+Deploy applications with Azure DevOps
+Automate your deployments with Azure DevOps
+Effective DevOps—Building a DevOps Culture at Scale
+Build Python apps
+Watch DevOps Fundamentals  on Channel 9
