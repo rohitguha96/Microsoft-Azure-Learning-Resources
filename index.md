@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Learning Resources
 
 You can use the [editor on GitHub](https://github.com/rohitguha96/devstories/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
