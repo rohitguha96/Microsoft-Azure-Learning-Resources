@@ -1,4 +1,4 @@
-## Learning Resources
+## Not familiar with Microsoft Azure, or finding any difficulty in writing your story?
 
 ### Category: AI/ML on Azure
 
