@@ -1,7 +1,11 @@
 ## Learning Resources
 
-# Header 3
-Category: AI/ML on Azure
+### Category: AI/ML on Azure
+
+Documentation on Azure AI/ML services
+
+Some Learning Paths on Microsoft Learn
+
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
