@@ -18,3 +18,16 @@
   4. Using Azure Machine Learning for Hyperparameter Optimization
   5. Deploying Deep Learning models using Kubeflow on Azure
 
+### Category: Containers & AKS
+
+- Product Documentation on Docs
+- MS Learn (Learning Paths) 
+  1. Administer containers in Azure
+  2. Architect modern applications in Azure
+  3. Kubernetes Learning Path v2.0
+- Reference Blogs/Tutorials 
+  1. Kubernetes in a nutshell (8-part series)
+  2. The Story of Eventually Perfect Distributed Systems
+  3. Kafka Streams on Kubernetes (3 Part Series)
+  4. How to add persistent storage to your Kubernetes apps on Azure
+  5. Kafka Connect on Kubernetes, the easy way!
